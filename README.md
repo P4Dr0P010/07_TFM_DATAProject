@@ -24,13 +24,13 @@ bi/
 ```
 
 ## 3. Entregables
-- **EDA en Python:** `notebooks/F1_EDA_v2.ipynb`  
-- **Dashboard Power BI:** `bi/F1WC_1950-2024_Dashboard_v4.pbix`  
+- **EDA en Python:** `F175Y_EDA.ipynb`  
+- **Dashboard Power BI:** `F175Y_Dashboard.pbix`  
 - **Informe** (este README resume pasos y hallazgos).
 
 ## 4. Requisitos
 - Python 3.10+
-- Librerías: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels` (opcional), `pyarrow` (opcional)
+- Librerías: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
 - Power BI Desktop (agosto 2024 o superior recomendado)
 
 ## 5. Pasos para reproducir
